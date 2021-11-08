@@ -3,7 +3,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Bem-vindo ao meu perfil
 
 <p>
-Me chamo Cícero, tenho 27 anos,moro em São Paulo, sou formado em Ciência da Computação pela Pontifícia Universidade Católica de São Paulo(PUC-SP), estou focado nos estudos das linguagens para desenvolvimento web mais atuais com o objetivo de ser um excelente profissional.
+Me chamo Cícero, tenho 27 anos,moro em São Paulo, sou formado em Ciência da Computação pela Pontifícia Universidade Católica de São Paulo(PUC-SP), atualmente estou trabalhando na área de Desenvolvimento de Software, estou focado nos estudos e desenvolvimento das tecnologias para desenvolvimento web mais atuais com o objetivo de me tornar  um profissional cada dia melhor.
 </p>
 
 
